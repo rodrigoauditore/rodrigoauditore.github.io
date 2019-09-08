@@ -7,8 +7,10 @@ url: "rodrigoauditore.github.io" # the base hostname & protocol for your site e.
 
 # User settings
 username: Rodrigo Auditore
-user_description: Result focused and always striving to improve. I'm also a tech enthusiast. As of late, I've been studying for ESCP's Master in Management in Paris, France. I'm currently looking for my next challenge in a multicultural and fulfilling experience.Speak only if it improves upon the silence.
-- Mahatma Gandhi
+user_description: 
+
+# Result focused and always striving to improve. I'm also a tech enthusiast. As of late, I've been studying for ESCP's Master in Management in Paris, France. I'm currently looking for my next challenge in a multicultural and fulfilling experience.Speak only if it improves upon the silence.
+#- Mahatma Gandhi
 user_title: ESCP Master in Management Student
 email: rodrigoauditore@gmail.com
 # twitter_username: lorem_ipsum
