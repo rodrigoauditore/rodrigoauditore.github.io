@@ -1,7 +1,7 @@
 # Site settings
 title: Rodrigo Auditore
 description: Personal Page for Rodrigo Auditore
-baseurl: "rodrigoauditore.github.io" 
+baseurl: "" 
 # the subpath of your site, e.g. /blog
 url: "rodrigoauditore.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
